@@ -1,0 +1,315 @@
+
+记录时间：2020-01-14 15:24:22,418 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-01-14 15:24:22,864 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 15:24:24,195 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 15:24:49,484 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 15:24:50,443 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 15:25:11,560 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 15:25:13,030 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 15:25:13,068 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-01-14 15:25:16,146 
+线程ID:[7] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 15:27:11,273 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 15:27:13,458 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 15:27:13,525 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-01-14 15:27:15,414 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 15:27:20,225 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 16:23:41,521 
+线程ID:[53] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-01-14 16:23:41,882 
+线程ID:[60] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 16:23:43,902 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 16:23:43,934 
+线程ID:[54] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-01-14 16:23:45,386 
+线程ID:[60] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 16:23:49,883 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 16:51:51,984 
+线程ID:[45] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 16:51:53,800 
+线程ID:[42] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 16:51:53,831 
+线程ID:[43] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-01-14 16:51:55,352 
+线程ID:[44] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 16:52:00,096 
+线程ID:[43] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 16:53:08,191 
+线程ID:[45] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 16:53:08,718 
+线程ID:[42] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 16:53:08,782 
+线程ID:[43] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-01-14 16:53:09,348 
+线程ID:[45] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 16:54:34,011 
+线程ID:[27] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-01-14 16:54:34,156 
+线程ID:[43] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 16:54:34,637 
+线程ID:[42] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 16:54:34,659 
+线程ID:[43] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-01-14 16:54:35,136 
+线程ID:[45] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 16:54:49,301 
+线程ID:[42] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 16:55:14,468 
+线程ID:[42] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 16:55:14,691 
+线程ID:[35] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 16:55:14,722 
+线程ID:[42] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-01-14 16:55:14,917 
+线程ID:[43] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 16:55:15,147 
+线程ID:[35] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 17:00:15,615 
+线程ID:[35] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-14 17:00:17,107 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-14 17:00:17,152 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-01-14 17:00:18,484 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-01-14 17:00:21,045 
+线程ID:[33] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 

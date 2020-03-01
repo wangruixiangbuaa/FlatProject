@@ -1,0 +1,2037 @@
+
+记录时间：2020-02-26 09:28:10,829 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 09:28:12,153 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 09:28:15,283 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 09:28:15,353 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 09:28:17,337 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:28:21,504 
+线程ID:[6] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:40:23,193 
+线程ID:[22] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 09:40:24,796 
+线程ID:[13] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 09:40:24,839 
+线程ID:[24] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 09:40:26,808 
+线程ID:[22] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:40:29,672 
+线程ID:[20] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:40:32,343 
+线程ID:[13] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 09:40:32,615 
+线程ID:[32] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:40:32,672 
+线程ID:[24] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:41:27,499 
+线程ID:[31] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 09:41:27,831 
+线程ID:[24] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 09:41:27,867 
+线程ID:[20] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 09:41:28,244 
+线程ID:[31] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:41:28,298 
+线程ID:[20] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:41:29,706 
+线程ID:[31] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 09:41:30,512 
+线程ID:[24] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 09:41:30,683 
+线程ID:[20] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 09:45:24,520 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 09:45:24,847 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:45:24,897 
+线程ID:[23] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 09:45:30,055 
+线程ID:[20] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 09:45:31,785 
+线程ID:[26] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 09:45:37,039 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 10:12:11,981 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 10:12:12,032 
+线程ID:[52] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 10:12:12,461 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 10:12:12,490 
+线程ID:[52] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 10:12:12,778 
+线程ID:[51] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:12:12,872 
+线程ID:[52] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:12:21,127 
+线程ID:[54] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:12:21,638 
+线程ID:[52] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:12:22,106 
+线程ID:[53] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:12:22,568 
+线程ID:[52] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:25:37,060 
+线程ID:[64] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:25:37,769 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:25:38,505 
+线程ID:[64] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:25:39,258 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:25:40,095 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:25:40,560 
+线程ID:[51] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:26,520 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:27,294 
+线程ID:[60] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:27,896 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:28,391 
+线程ID:[65] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:28,857 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:29,353 
+线程ID:[51] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:30,593 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:31,119 
+线程ID:[60] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:31,527 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:27:32,021 
+线程ID:[65] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:28:02,439 
+线程ID:[65] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 10:28:02,797 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 10:28:02,836 
+线程ID:[66] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 10:48:18,497 
+线程ID:[70] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 10:48:19,015 
+线程ID:[81] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 10:48:20,972 
+线程ID:[79] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 10:48:21,033 
+线程ID:[70] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 10:48:22,859 
+线程ID:[78] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:48:24,130 
+线程ID:[79] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 10:48:26,863 
+线程ID:[78] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 10:48:27,496 
+线程ID:[70] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 10:48:27,699 
+线程ID:[81] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 11:24:39,013 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 11:24:39,043 
+线程ID:[52] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 11:24:39,628 
+线程ID:[47] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 11:24:39,662 
+线程ID:[53] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 11:24:39,950 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 11:24:40,043 
+线程ID:[52] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 11:24:42,656 
+线程ID:[53] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 11:24:48,461 
+线程ID:[54] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 11:24:48,503 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 11:27:25,039 
+线程ID:[46] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统DormChange--PayRequest
+ 
+
+记录时间：2020-02-26 11:27:37,588 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统PayRequestSave--PayRequest
+ 
+
+记录时间：2020-02-26 11:27:53,427 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 11:27:56,766 
+线程ID:[48] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:33:27,979 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 12:33:28,070 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 12:33:29,071 
+线程ID:[19] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 12:33:29,117 
+线程ID:[19] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 12:33:29,548 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 12:33:29,673 
+线程ID:[21] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 12:33:31,845 
+线程ID:[37] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 12:33:38,796 
+线程ID:[86] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:33:38,837 
+线程ID:[21] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:35:44,989 
+线程ID:[19] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 12:35:45,387 
+线程ID:[23] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 12:35:45,421 
+线程ID:[37] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 12:35:46,008 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 12:35:46,163 
+线程ID:[86] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 12:35:48,044 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 12:35:49,051 
+线程ID:[37] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:35:49,119 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:41:31,565 
+线程ID:[23] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 12:41:32,931 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 12:41:33,030 
+线程ID:[23] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 12:41:34,058 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 12:41:34,236 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 12:41:36,426 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 12:41:38,054 
+线程ID:[16] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:41:38,499 
+线程ID:[19] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:46:51,046 
+线程ID:[19] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 12:46:52,892 
+线程ID:[86] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:46:52,985 
+线程ID:[21] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:48:30,639 
+线程ID:[86] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 12:48:32,416 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:48:32,508 
+线程ID:[19] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:49:34,657 
+线程ID:[86] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 12:49:36,203 
+线程ID:[86] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 12:49:36,307 
+线程ID:[19] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:26:24,020 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 13:26:24,020 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 13:26:49,040 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 13:26:49,250 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 13:26:53,900 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 13:26:54,022 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 13:26:58,202 
+线程ID:[21] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 13:26:58,941 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:27:01,500 
+线程ID:[34] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:27:01,772 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:27:02,516 
+线程ID:[34] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 13:27:27,362 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统DormChange--PayRequest
+ 
+
+记录时间：2020-02-26 13:27:49,392 
+线程ID:[21] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:27:50,216 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:27:50,375 
+线程ID:[21] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:27:59,187 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统DormChange--PayRequest
+ 
+
+记录时间：2020-02-26 13:33:21,814 
+线程ID:[83] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统PayRequestSave--PayRequest
+ 
+
+记录时间：2020-02-26 13:33:22,052 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:33:22,162 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:33:32,113 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:33:49,790 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:33:50,032 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:33:57,011 
+线程ID:[35] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统DormChange--PayRequest
+ 
+
+记录时间：2020-02-26 13:35:34,510 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统PayRequestSave--PayRequest
+ 
+
+记录时间：2020-02-26 13:36:02,847 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:36:05,494 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:38:34,485 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:38:37,321 
+线程ID:[14] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:38:42,413 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:39:03,271 
+线程ID:[85] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统DormChange--PayRequest
+ 
+
+记录时间：2020-02-26 13:39:20,157 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统PayRequestSave--PayRequest
+ 
+
+记录时间：2020-02-26 13:39:20,287 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:39:23,396 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:39:23,920 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:39:26,819 
+线程ID:[85] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:39:27,398 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:40:34,167 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:40:34,569 
+线程ID:[25] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:40:46,542 
+线程ID:[41] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:40:50,081 
+线程ID:[39] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:41:45,205 
+线程ID:[40] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:41:48,493 
+线程ID:[82] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:45:06,492 
+线程ID:[46] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 13:45:09,371 
+线程ID:[52] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:45:15,020 
+线程ID:[46] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 13:54:59,080 
+线程ID:[64] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统LogOff--Login
+ 
+
+记录时间：2020-02-26 14:09:21,405 
+线程ID:[91] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 14:09:21,537 
+线程ID:[93] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 14:09:23,478 
+线程ID:[94] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 14:09:23,518 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 14:09:24,337 
+线程ID:[89] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 14:09:24,687 
+线程ID:[91] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 14:09:58,424 
+线程ID:[95] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 14:10:05,912 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 14:11:04,168 
+线程ID:[87] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 14:11:15,205 
+线程ID:[91] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 14:11:16,638 
+线程ID:[88] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 14:13:34,942 
+线程ID:[87] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 14:13:35,303 
+线程ID:[55] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 14:13:35,346 
+线程ID:[91] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 14:13:54,529 
+线程ID:[91] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统DormChange--PayRequest
+ 
+
+记录时间：2020-02-26 14:14:35,262 
+线程ID:[87] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统PayRequestSave--PayRequest
+ 
+
+记录时间：2020-02-26 14:14:35,404 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 14:14:35,448 
+线程ID:[55] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 18:32:59,167 
+线程ID:[46] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 18:32:59,228 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 18:32:59,773 
+线程ID:[15] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 18:32:59,812 
+线程ID:[54] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:33:06,351 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:33:06,437 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:33:48,410 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Save--Dorm
+ 
+
+记录时间：2020-02-26 18:33:48,453 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:33:48,512 
+线程ID:[54] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:34:03,030 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-26 18:34:03,748 
+线程ID:[54] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 18:34:03,799 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-26 18:41:15,635 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:41:15,969 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:41:16,062 
+线程ID:[50] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:43:10,573 
+线程ID:[50] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 18:43:10,956 
+线程ID:[67] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 18:43:10,997 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:43:11,801 
+线程ID:[58] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:43:11,895 
+线程ID:[20] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:46:23,112 
+线程ID:[50] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 18:46:23,414 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 18:46:23,442 
+线程ID:[58] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:46:24,234 
+线程ID:[67] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:46:24,301 
+线程ID:[50] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:46:36,652 
+线程ID:[58] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 18:46:36,914 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 18:46:36,942 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:46:37,583 
+线程ID:[50] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:46:37,672 
+线程ID:[72] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:47:11,376 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 18:47:11,683 
+线程ID:[47] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 18:47:11,829 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:47:17,933 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:48:02,692 
+线程ID:[47] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:48:30,698 
+线程ID:[71] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 18:48:32,897 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 18:48:33,007 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:48:35,373 
+线程ID:[73] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:48:48,002 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:48:49,202 
+线程ID:[71] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:48:57,998 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:48:59,022 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:50:14,128 
+线程ID:[68] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:50:14,429 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:50:14,746 
+线程ID:[76] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:51:44,255 
+线程ID:[47] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 18:51:45,315 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 18:51:45,460 
+线程ID:[76] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 19:28:39,915 
+线程ID:[75] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 19:28:40,187 
+线程ID:[75] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 19:28:40,844 
+线程ID:[79] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 19:28:40,904 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 19:28:42,320 
+线程ID:[68] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 19:28:42,450 
+线程ID:[75] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 19:28:43,920 
+线程ID:[79] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 19:28:45,897 
+线程ID:[76] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 19:29:25,937 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 19:29:29,762 
+线程ID:[47] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 19:29:30,130 
+线程ID:[71] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 19:29:30,167 
+线程ID:[79] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 19:29:31,298 
+线程ID:[68] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 19:29:31,380 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 19:29:32,870 
+线程ID:[71] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 19:46:12,697 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 19:46:15,912 
+线程ID:[75] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 19:46:15,953 
+线程ID:[76] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 19:46:19,169 
+线程ID:[73] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 19:46:22,572 
+线程ID:[79] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 19:46:28,549 
+线程ID:[96] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 19:46:28,560 
+线程ID:[59] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryProjectNames--Dorm
+ 
+
+记录时间：2020-02-26 19:46:38,087 
+线程ID:[68] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 19:54:34,461 
+线程ID:[71] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 19:54:36,056 
+线程ID:[68] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 19:54:36,170 
+线程ID:[71] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 19:54:38,903 
+线程ID:[75] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 19:54:42,358 
+线程ID:[68] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 19:54:45,326 
+线程ID:[68] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 19:54:45,334 
+线程ID:[71] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryProjectNames--Dorm
+ 
+
+记录时间：2020-02-26 19:54:47,047 
+线程ID:[68] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 19:54:51,068 
+线程ID:[71] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 19:54:57,649 
+线程ID:[76] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 19:55:03,382 
+线程ID:[46] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 19:55:04,578 
+线程ID:[76] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 19:55:25,082 
+线程ID:[71] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 19:55:27,761 
+线程ID:[76] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 20:29:26,451 
+线程ID:[29] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-26 20:29:27,329 
+线程ID:[66] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Main
+ 
+
+记录时间：2020-02-26 20:29:29,559 
+线程ID:[29] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-26 20:29:29,615 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 20:29:32,525 
+线程ID:[31] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 20:29:53,361 
+线程ID:[31] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 20:29:54,345 
+线程ID:[29] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 20:30:01,960 
+线程ID:[29] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 20:30:02,969 
+线程ID:[66] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 20:30:36,563 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 20:30:37,090 
+线程ID:[29] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 20:30:37,273 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 20:30:41,144 
+线程ID:[92] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 20:30:41,159 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryProjectNames--Dorm
+ 
+
+记录时间：2020-02-26 20:30:43,747 
+线程ID:[31] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 20:30:53,546 
+线程ID:[31] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 20:31:16,551 
+线程ID:[29] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 20:31:16,553 
+线程ID:[61] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryProjectNames--Dorm
+ 
+
+记录时间：2020-02-26 20:32:00,321 
+线程ID:[92] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 20:32:00,389 
+线程ID:[13] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryProjectNames--Dorm
+ 
+
+记录时间：2020-02-26 20:33:11,699 
+线程ID:[92] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-26 20:33:14,165 
+线程ID:[92] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 20:33:14,825 
+线程ID:[92] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-26 20:33:16,374 
+线程ID:[13] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryBatchs--Dorm
+ 
+
+记录时间：2020-02-26 20:33:16,414 
+线程ID:[92] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryProjectNames--Dorm
+ 
+
+记录时间：2020-02-26 20:33:18,683 
+线程ID:[92] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 20:33:23,105 
+线程ID:[92] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统QueryStudentByBatch--Dorm
+ 
+
+记录时间：2020-02-26 20:33:30,664 
+线程ID:[92] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：刘瑾登录了系统DormAssign--Dorm
+ 

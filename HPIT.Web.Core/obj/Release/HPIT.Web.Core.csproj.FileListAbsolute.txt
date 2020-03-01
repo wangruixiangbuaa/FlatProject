@@ -1,0 +1,13 @@
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\bin\Release\HPIT.Web.Core.dll
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\bin\Release\HPIT.Web.Core.pdb
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\bin\Release\Newtonsoft.Json.dll
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\bin\Release\System.Web.Mvc.dll
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\bin\Release\Newtonsoft.Json.pdb
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\bin\Release\Newtonsoft.Json.xml
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\bin\Release\System.Web.Mvc.xml
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\bin\Release\zh-Hans\System.Web.Mvc.resources.dll
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\obj\Release\HPIT.Web.Core.csproj.CoreCompileInputs.cache
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\obj\Release\HPIT.Web.Core.csproj.CopyComplete
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\obj\Release\HPIT.Web.Core.dll
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\obj\Release\HPIT.Web.Core.pdb
+D:\项目\Survey\HPIT.Survey.Portal\HPIT.Web.Core\obj\Release\HPIT.Web.Core.csprojAssemblyReference.cache

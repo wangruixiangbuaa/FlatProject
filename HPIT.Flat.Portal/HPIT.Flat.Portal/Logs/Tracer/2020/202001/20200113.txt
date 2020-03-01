@@ -1,0 +1,49 @@
+
+记录时间：2020-01-13 14:27:28,578 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-01-13 14:27:29,169 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-13 14:27:30,777 
+线程ID:[8] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-01-13 14:27:43,695 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统LogOff--Login
+ 
+
+记录时间：2020-01-13 14:28:47,865 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-01-13 14:28:47,891 
+线程ID:[11] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-01-13 14:28:48,649 
+线程ID:[13] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 

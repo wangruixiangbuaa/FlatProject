@@ -1,0 +1,266 @@
+
+记录时间：2020-02-09 11:39:07,796 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-09 11:39:08,424 
+线程ID:[20] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-02-09 11:39:10,324 
+线程ID:[23] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-09 11:39:10,352 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-09 11:39:11,088 
+线程ID:[23] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-09 11:39:14,556 
+线程ID:[18] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-09 11:39:21,689 
+线程ID:[24] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-09 11:39:23,065 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 11:39:23,365 
+线程ID:[23] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 11:40:17,061 
+线程ID:[27] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统DormChange--PayRequest
+ 
+
+记录时间：2020-02-09 11:40:27,082 
+线程ID:[20] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统PayRequestSave--PayRequest
+ 
+
+记录时间：2020-02-09 11:40:27,398 
+线程ID:[28] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:29:55,176 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥---23c2e9e36fbc62787c058bb3a3d77232
+ 
+
+记录时间：2020-02-09 14:29:55,238 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Main
+ 
+
+记录时间：2020-02-09 14:29:55,945 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统GetCurrentRoleMenus--Main
+ 
+
+记录时间：2020-02-09 14:29:55,977 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--Dorm
+ 
+
+记录时间：2020-02-09 14:29:56,431 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-09 14:29:56,562 
+线程ID:[14] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--Dorm
+ 
+
+记录时间：2020-02-09 14:30:02,782 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-09 14:30:11,838 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:32:51,950 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-09 14:32:56,201 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:33:00,894 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:33:43,199 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-09 14:33:44,812 
+线程ID:[55] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:33:44,894 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:34:25,460 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-09 14:34:26,702 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:34:27,130 
+线程ID:[12] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:35:36,474 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-09 14:35:37,787 
+线程ID:[55] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:35:37,853 
+线程ID:[9] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:36:11,273 
+线程ID:[56] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-09 14:36:12,757 
+线程ID:[10] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:36:12,842 
+线程ID:[55] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:47:09,439 
+线程ID:[19] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统Index--PayRequest
+ 
+
+记录时间：2020-02-09 14:47:12,798 
+线程ID:[17] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 
+
+记录时间：2020-02-09 14:47:13,130 
+线程ID:[49] 
+日志级别：  INFO  
+出错类：Logger property: [(null)] - 
+错误描述：王瑞祥登录了系统QueryPageData--PayRequest
+ 

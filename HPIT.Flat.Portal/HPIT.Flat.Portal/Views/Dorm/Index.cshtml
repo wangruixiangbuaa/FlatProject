@@ -1,0 +1,314 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section styles{
+    <style>
+    </style>
+}
+<section class="content">
+    <div class="">
+        @*<div class="box-header with-border">
+                <ol class="breadcrumb">
+                    <li><a href="#"><i class="fa fa-dashboard"></i>首页</a></li>
+                    <li><a href="#">调查管理</a></li>
+                    <li class="active">问卷列表</li>
+                </ol>
+        </div>*@
+        <div class="box-body">
+            <div class="pull-left">
+                <div class="form-group form-inline">
+                        <div class="btn-group">
+                            <a href="#" class="btn btn-default" id="addDorm" target="_self">添加公寓</a><br />
+                        </div>
+                 </div>
+            </div>
+            <div class="box-tools pull-right" style="margin-bottom: 17px;">
+                <div class="has-feedback">
+                    <ul>
+                        <li><label>公寓类型：</label>
+                            <select id="DropDownList_Direction" class="form-control input-sm searchInput">
+                                <option value="">请选择</option>
+                                <option value="1">男生宿舍</option>
+                                <option value="0">女生宿舍</option>
+                            </select>
+                        </li>
+                        <li><label>入住状态：</label>
+                            <select id="DropDownList_Direction" class="form-control input-sm searchInput">
+                                <option value="">请选择</option>
+                                <option value="2">全部入住</option>
+                                <option value="1">部分入住</option>
+                                <option value="0">未入住</option>
+                            </select>
+                        </li>
+                        <li><input type="button" value="查询" id="searchBtn" data-toggle="modal" class="btn btn-default" /></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <table id="ListTb" class="table table-bordered">
+                    <tr>
+                        <th>公寓编号</th>
+                        <th>公寓地址</th>
+                        <th>公寓类型</th>
+                        <th>租金(人/月)</th>
+                        <th>联系电话</th>
+                        <th>公寓规格</th>
+                        <th>备注</th>
+                        <th>状态</th>
+                        <th style="width:90px;text-align:center;" colspan="2">操作</th>
+                    </tr>
+                </table>
+                <div class="pagebox" style="height:30px;" id="box"></div>
+                <script id="dataList" type="text/x-jquery-tmpl">
+                    {{each  Data}}
+                    <tr>
+                        <td>${DormNo}</td>
+                        <td>${DormName}</td>
+                        <td>${TypeStr}</td>
+                        <th>${RentMoney}</th>
+                        <td>${Phone}</td>
+                        <td>${SizeStr}</td>
+                        <td>${Remark}</td>
+                        <td>${StatusStr}</td>
+                        <th style="width:90px;text-align:center;" colspan="2">
+                            <a href="#" type="assign" dno="${DormNo}" did="${DID}">人员分配</a>
+                            <a href="#" type="edit" dormStr="${DormJsonStr}">编辑</a>
+                            <a href="#" type="delete">删除</a>
+                        </th>
+                    </tr>
+                    {{/each}}
+                </script>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="modal fade" id="createModal" tabindex="0" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 id="myModalLabel">公寓管理</h3>
+            </div>
+            <div class="modal-body">
+                <form id="dormform">
+                    <table class="table table-bordered table-striped" style="width:570px">
+                        <tr>
+                            <td>公寓名称</td>
+                            <td><input class="form-control" style="display:none;" name="DID" id="DID"><input class="form-control" name="DormNo" id="DormNo"></td>
+                        </tr>
+                        <tr>
+                            <td>公寓地址</td>
+                            <td><input class="form-control" name="DormName" id="DormName"></td>
+                        </tr>
+                        <tr>
+                            <td>公寓规格</td>
+                            <td>
+                                <select id="DropDownList_Direction" name="DormSize" class="form-control input-sm searchInput">
+                                    <option value="-1">请选择</option>
+                                    <option value="0">四人间</option>
+                                    <option value="1">六人间</option>
+                                    <option value="2">八人间</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>公寓类型</td>
+                            <td>
+                                <select id="DropDownList_Direction" name="DormType" class="form-control input-sm searchInput">
+                                    <option value="-1">请选择</option>
+                                    <option value="0">男生宿舍</option>
+                                    <option value="1">女生宿舍</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>押金</td>
+                            <td><input class="form-control" type="number" name="DepositMoney" id="DepositMoney"></td>
+                        </tr>
+                        <tr>
+                            <td>租金</td>
+                            <td><input class="form-control" type="number" name="RentMoney" id="RentMoney"></td>
+                        </tr>
+                        <tr>
+                            <td>联系电话</td>
+                            <td><input class="form-control" name="Phone" id="Phone"></td>
+                        </tr>
+                        <tr>
+                            <td>备注</td>
+                            <td><input class="form-control" name="Remark" id="Remark"></td>
+                        </tr>
+                    </table>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-success" data-dismiss="modal" id="dormSave" aria-hidden="true">保存</button>
+                <button class="btn btn-default" data-dismiss="modal" aria-hidden="true">关闭</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="assignModal" tabindex="0" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="margin-top: -44px;">
+    <div class="modal-dialog" style="margin-top: -44px;">
+        <div class="modal-content" style="width:661px;">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 id="myModalLabel">宿舍人员分配</h3>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <select id="DropDownList_Batchs" class="form-control input-sm searchInput">
+                        <option value="">请选择</option>
+                    </select>
+                    <select id="DropDownList_Direction" class="form-control input-sm searchInput">
+                        <option value="">请选择</option>
+                        <option value="Java">Java</option>
+                        <option value=".NET">.NET</option>
+                        <option value="大数据">大数据</option>
+                        <option value="企业信息化">企业信息化</option>
+                        <option value="WEB前端">WEB前端</option>
+                        <option value="网络营销">网络营销</option>
+                    </select>
+                    <select id="DropDownList_ProjectName" class="form-control input-sm searchInput">
+                        <option value="">请选择</option>
+                    </select>
+                </div>
+                <ul id="assignID" class="row" did="" dno=""></ul>
+                <script id="assignData" type="text/x-jquery-tmpl">
+                    {{each Data}}
+                    <li class="col-md-4">
+                        <input type="checkbox" stuNo="${StudentNo}" stuName="${Name}" pem="${PEM}" periodType="${periodType}"/>${Name}-${StudentNo}
+                    </li>
+                    {{/each}}
+                </script>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-success" data-dismiss="modal" id="assignSave" aria-hidden="true">保存</button>
+                <button class="btn btn-default" data-dismiss="modal" aria-hidden="true">关闭</button>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts{
+    <script src="~/js/tmpl/jquery.tmpl.js"></script>
+    <script src="~/js/common/common.js"></script>
+    <script type="text/javascript" charset="utf-8">
+        var dorm = {
+            direction: '',
+            batch: '',
+            projectName:'',
+            queryList: function () {
+                var batch = $("#TextBox_Batch").val();
+                var projectName = $("#TextBox_ProjectPart").val();
+                var direction = $("#DropDownList_Direction").val();
+                var data = { "PageIndex": _.currentPageIndex-1, "PageSize": 15, "Entity": { "Batch": batch, "ProjectName": projectName, "Direction": direction } };
+                _.queryList("/Dorm/QueryPageData",data );
+            },
+            queryStudent: function () {
+                _.options.url = "/Dorm/QueryStudentByBatch?batch=" + dorm.batch + '&direction=' + dorm.direction + '&projectName=' + dorm.projectName;
+                _.ajaxData(_.options, function (result) {
+                    $("#assignID").empty();
+                    $("#assignData").tmpl(result).appendTo('#assignID');
+                })
+            }
+        }
+        $(document).ready(function () {
+            //替换审批人
+            $("#searchBtn").click(function () {
+                _.currentPageIndex = 1;
+                dorm.queryList();
+            })
+            //操作按钮，审核
+            $("#ListTb").on("click", "a", function () {
+                var id = $(this).attr("did");
+                var dno = $(this).attr('dno');
+                var type = $(this).attr("type");
+                //删除调查表单
+                if (type == 'assign') {
+                    _.options.url = "/Dorm/QueryBatchs";
+                    $('#assignID').attr("did", id);
+                    $('#assignID').attr("dno", dno);
+                    _.ajaxData(_.options, function (result) {
+                        $('#DropDownList_Batchs').empty();
+                        $('#DropDownList_Batchs').append('<option value="请选择">' + "请选择" + '</option>');
+                        for (var i = 0; i < result.Data.length; i++) {
+                            $('#DropDownList_Batchs').append('<option value="' + result.Data[i] + '">' + result.Data[i] + '</option>');
+                        }
+                        $("#assignModal").modal('show');
+                    });
+                    _.options.url = "/Dorm/QueryProjectNames";
+                    _.ajaxData(_.options, function (result) {
+                        $('#DropDownList_ProjectName').empty();
+                        $('#DropDownList_ProjectName').append('<option value="请选择">' + "请选择" + '</option>');
+                        for (var i = 0; i < result.Data.length; i++) {
+                            $('#DropDownList_ProjectName').append('<option value="' + result.Data[i] + '">' + result.Data[i] + '</option>');
+                        }
+                        $("#assignModal").modal('show');
+                    })
+                }
+                if (type == "edit") {
+                    var jsonstr = $(this).attr('dormStr');
+                    var jsonObj = JSON.parse(jsonstr);
+                    $('#DID').val(jsonObj.DID);
+                    $('#DormNo').val(jsonObj.DormNo);
+                    $('#DormName').val(jsonObj.DormName);
+                    $("#createModal").modal('show');
+                }
+            })
+            $('#addDorm').click(function () {
+                $("#createModal").modal('show');
+            })
+            $('#assignSave').click(function () {
+                var result = $('#assignID li input[type=checkbox]:checked');
+                var did = $('#assignID').attr('did');
+                var dno = $('#assignID').attr('dno');
+                console.log(result);
+                var students = [];
+                for(var i = 0; i < result.length; i++) {
+                    var pem = result[i].attributes['pem'].value;
+                    var stuName = result[i].attributes['stuname'].value;
+                    var stuNo = result[i].attributes['stuNo'].value;
+                    var periodType = result[i].attributes['periodType'].value;
+                    students.push({ 'StuName': stuName, 'PEM': pem, 'StuNo': stuNo, 'DID': did, 'DormNo': dno, "PeriodType": periodType });
+                }
+                _.options.url = "/Dorm/DormAssign";
+                _.options.data = { 'DormAssigns': students };
+                _.ajaxData(_.options, function (result) {
+                    if (result.State == 200) {
+                        $("#assignModal").modal('hide');
+                        dorm.queryList();
+                    } else {
+                        swal("", "分配失败，请重新尝试!", "error");
+                    }
+                });
+            })
+
+            $('#dormSave').click(function () {
+                _.options.url = "/Dorm/Save";
+                _.options.data = $('#dormform').serialize();
+                _.ajaxData(_.options, function (result) {
+                    //alert(result.Data);
+                    dorm.queryList();
+                })
+            })
+            $("#DropDownList_Batchs").change(function () {
+                dorm.batch = $(this).val();
+                dorm.queryStudent();
+            })
+            $("#DropDownList_Direction").change(function () {
+                dorm.direction = $(this).val();
+                dorm.queryStudent();
+            })
+            $("#DropDownList_ProjectName").change(function () {
+                dorm.projectName = $(this).val();
+                dorm.queryStudent();
+            })
+            dorm.queryList();
+        })
+    </script>
+}
+
